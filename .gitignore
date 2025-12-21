@@ -1,0 +1,22 @@
+# Build results
+bin/
+obj/
+
+# ONNX models (too large for Git - download separately)
+*.onnx
+*.pt
+
+# Test files
+test.mp4
+*.jpg
+*.png
+
+# IDE
+.vs/
+.vscode/
+*.suo
+*.user
+
+# OS
+.DS_Store
+Thumbs.db
